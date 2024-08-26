@@ -45,7 +45,7 @@ All rights reserved.
 
 3. **Modification**: You may not modify, adapt, or reverse-engineer this software in any way.
 
-4. **Source Code**: The source code for this software is proprietary and is not provided.
+4. **Source Code**: The source code for this software is provided.
 
 5. **Warranty Disclaimer**: This software is provided "as-is" without any warranty of any kind. The author is not liable for any damages arising from the use of this software.
 
