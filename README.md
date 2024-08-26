@@ -2,6 +2,10 @@
 
 The M5Dial SPIFFS Uploader is a user-friendly tool for creating and uploading SPIFFS (SPI Flash File System) images to your M5Dial.
 
+## Requirements for .py or building
+1. ESPTool: Download from [Github](https://github.com/espressif/esptool)
+2. SPIFFS: Download from [Github](https://github.com/igrr/mkspiffs)
+
 ## How to Use
 
 ### 1. Connecting to Your Device
