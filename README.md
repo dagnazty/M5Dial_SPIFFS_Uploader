@@ -29,6 +29,7 @@ The M5Dial SPIFFS Uploader is a user-friendly tool for creating and uploading SP
 - **Admin Rights**: Running the tool with administrator privileges may be necessary for accessing COM ports and flashing the device.
 - **COM Port Selection**: Ensure the correct COM port is selected before connecting to avoid connection issues.
 - **Logs**: The log window will display real-time feedback, including successful operations and any errors encountered.
+- **Serial Monitors**: All connections to the M5Dial should be closed before attempting to connect vua M5Dial SPIFFS Uploader. 
 
 ## License
 
